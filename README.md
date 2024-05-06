@@ -26,12 +26,12 @@ The purpose of the Superstore Sales Dashboard is to analyze sales trends over ti
 
 The dashboard Page1 displays the following metrics:
 
-- Sales by Year: Sales appear to be higher in 2017 compared to 2016.
-- Sales by Month: There appears to be a seasonal trend, with higher sales in some months compared to others. 
-- Top Selling Sub-Categories: Furniture - Tables is the top sub-category, followed by Technology - Phones and Computers - Desktops.
-- Sales by Category: Technology is the top-selling category, followed by Furniture and Office Supplies.
-- Sales by Segment: Consumer is the largest segment by sales, followed by Corporate and Home Office. 
-- Profit by Sub-Category:  Furniture - Tables generates the most profit, though the specific profit number is not visible in the portion of the image you sent. 
+- **Sales by Year:** Sales appear to be higher in 2017 compared to 2016.
+- **Sales by Month:** There appears to be a seasonal trend, with higher sales in some months compared to others. 
+- **Top Selling Sub-Categories:** Furniture - Tables is the top sub-category, followed by Technology - Phones and Computers - Desktops.
+- **Sales by Category:** Technology is the top-selling category, followed by Furniture and Office Supplies.
+- **Sales by Segment:** Consumer is the largest segment by sales, followed by Corporate and Home Office. 
+- **Profit by Sub-Category:** Furniture - Tables generates the most profit, though the specific profit number is not visible in the portion of the image you sent. 
 
 ![PowerBIProject6-SUPER STORE SALES DASHBOARD Page2](https://github.com/qamaruddin-khichi/PowerBIProject6-SUPER-STORE-SALES-DASHBOARD/assets/155871872/5002a3b7-63ff-44ad-85bf-bc8c24fc0c64)
 
