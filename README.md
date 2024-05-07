@@ -12,7 +12,7 @@
 
 ### About
 
-This repository contains the Power BI Project6-SUPER STORE SALES DASHBOARD, which offers a comprehensive analysis of the company's sales performance across various dimensions.
+This project offers a comprehensive analysis of the company's sales performance across various dimensions.
 
 ---
 
@@ -31,7 +31,7 @@ The dashboard Page1 displays the following metrics:
 - **Top Selling Sub-Categories:** Furniture - Tables is the top sub-category, followed by Technology - Phones and Computers - Desktops.
 - **Sales by Category:** Technology is the top-selling category, followed by Furniture and Office Supplies.
 - **Sales by Segment:** Consumer is the largest segment by sales, followed by Corporate and Home Office. 
-- **Profit by Sub-Category:** Furniture - Tables generates the most profit, though the specific profit number is not visible in the portion of the image you sent. 
+- **Profit by Sub-Category:** Furniture - Tables generate the most profit, though the specific profit number is not visible in the portion of the image you sent. 
 
 ![PowerBIProject6-SUPER STORE SALES DASHBOARD Page2](https://github.com/qamaruddin-khichi/PowerBIProject6-SUPER-STORE-SALES-DASHBOARD/assets/155871872/5002a3b7-63ff-44ad-85bf-bc8c24fc0c64)
 
@@ -48,11 +48,11 @@ Page 2 with its sales forecasts, empowers Superstore to be more proactive in its
 ### Details (Insights from the Dashboard)
 
 - **Sales Trends:** Sales appear to be higher in 2017 compared to 2016, with a potential seasonal trend throughout the year.
-- **Top Performers:** Technology leads in sales category, with Furniture - Tables being the top sub-category by sales and potentially profit (specific profit not shown on Page 1). Consumer segment generates the most sales.
+- **Top Performers:** Technology leads in the sales category, with Furniture - Tables being the top sub-category by sales and potential profit (specific profit not shown on Page 1). Consumer segment generates the most sales.
 - **Regional Analysis:** West region shows the highest sales, followed by East, South, and Central. California has the highest sales by state, with specific zip codes like 98052 leading in local sales.
 
 ---
 
 ### Conclusion
 
-The Superstore Sales Dashboard provides valuable insights for optimizing sales strategies. By identifying seasonal trends and top performers, Superstore can adjust marketing efforts accordingly. Furthermore, the regional and local analysis allows for targeted marketing campaigns in areas with high sales potential. By using both pages of the dashboard, Superstore can gain a holistic view of their sales performance and make data-driven decisions to improve profitability across the entire business.
+The Superstore Sales Dashboard provides valuable insights for optimizing sales strategies. By identifying seasonal trends and top performers, Superstore can adjust marketing efforts accordingly. Furthermore, the regional and local analysis allows for targeted marketing campaigns in areas with high sales potential. By using both pages of the dashboard, Superstore can gain a holistic view of its sales performance and make data-driven decisions to improve profitability across the entire business.
