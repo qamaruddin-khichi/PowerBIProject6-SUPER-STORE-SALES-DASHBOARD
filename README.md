@@ -1,5 +1,7 @@
 # PowerBIProject6 - SUPER STORE SALES DASHBOARD
 
+Explore the interactive dashboard: [Super Store Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDUzODY3OGYtZWI5YS00M2JhLWIxYzQtODRiYzMyNWVmMDEyIiwidCI6IjU0MTM4MTA5LTNiOGEtNDMzNy1hYzk2LTY4ZDE4ODM0NmNhOCIsImMiOjl9)
+
 ### Table of Contents
 
 - [About](#about)
